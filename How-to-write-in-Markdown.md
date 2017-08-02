@@ -2,9 +2,22 @@
 
 ## 添加文件
 
+![](/img/file-navigation.png)
+
+
 您可以使用```Create new file```按钮创建一个新文件，并现场编辑之。您也可以使用```Upload file```按钮并在点击页面中央的```choose your files```以直接上传本地已经写好的文件。
 
 Github 支持将 markdown 文件直接排版为 html 网页，故建议您使用 markdown 格式撰写文章，并使用```.md```扩展名为文件命名。
+
+## 添加 Issues
+
+`Issues` 本来是用于反馈的，但它支持 Markdown 标记语言，所以我们也可以利用 `Issues` 写文章。
+
+![](/navigation.png)
+
+点击导航栏上的 `Issues`，然后使用 `New issue` 按钮添加新 Issue。
+
+![](/subnav.png)
 
 ## Markdown 简介
 
