@@ -1,5 +1,6 @@
 # 申请 GitHub 帐号
 
+[Github](https://github.com/) 提供免费在线源码托管的服务，同时是个有社交功能的开发者社区。我们要利用的，就是 Github 将 `.md` 文件输出 html 预览的功能。
 
 要在 GitHub 上写博客，首先要申请一个帐号。打开 Github 的[注册](https://github.com/join)页面。
 
