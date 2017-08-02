@@ -1,4 +1,4 @@
-# 如何用 Markdown 写文章
+# 用 Markdown 写文章
 
 ## 添加文件
 
@@ -9,13 +9,15 @@
 
 Github 支持将 markdown 文件直接排版为 html 网页，故建议您使用 markdown 格式撰写文章，并使用```.md```扩展名为文件命名。
 
+或者：
+
 ## 添加 Issues
 
 `Issues` 本来是用于反馈的，但它支持 Markdown 标记语言，所以我们也可以利用 `Issues` 写文章。
 
 ![](/img/navigation.png)
 
-点击导航栏上的 `Issues`，然后使用 `New issue` 按钮添加新 Issue。
+点击导航栏上的`Issues`，然后使用`New issue`按钮添加新 Issue。
 
 ![](/img/subnav.png)
 
