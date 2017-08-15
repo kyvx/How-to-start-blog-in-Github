@@ -5,7 +5,19 @@
 ![](/img/file-navigation.png)
 
 
-您可以使用`Create new file`按钮创建一个新文件，并现场编辑之。您也可以使用`Upload file`按钮并在点击页面中央的`choose your files`以直接上传本地已经写好的文件。
+您可以使用`Create new file`按钮创建一个新文件，并现场编辑之。
+
+![](./img/online_edit.png)
+
+点击*Preview changes*可以预览文件排版后的效果；点击*Edit file*以继续编辑。
+
+我们建议为您每一次对仓库内容的修改都留下一点说明。如果提交说明留空，github 会为您自动生成一个默认的说明。
+
+![](./img/upload.png)
+
+您也可以使用`Upload file`按钮并在点击页面中央的`choose your files`以直接上传本地已经写好的文件。和在线编辑相同，在下方**Commit Change**处可以书写说明。
+
+当您阅览自己的仓库中的文件时，点击右上方的笔形图标即可在线编辑之。
 
 Github 支持将`.md`文件直接排版为 html 网页，故建议您使用 Markdown 格式撰写文章，并使用`.md`扩展名为文件命名。
 
